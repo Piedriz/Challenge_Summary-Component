@@ -23,6 +23,9 @@
 .card__plan-left{
     font-weight: 900;
 }
+.card__plan-left a{
+    color: var(--Bright-blue);
+}
 .card__plan-left a:hover{
     text-decoration: none;
     color: var(--Desaturated-blue);
