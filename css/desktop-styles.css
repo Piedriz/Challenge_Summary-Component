@@ -1,0 +1,47 @@
+.card{
+    width: 440px;
+}
+
+.card__img{
+    margin-bottom: 44px;
+}
+
+.card__subtitle{
+    padding-right: 64px;
+    padding-left: 64px;
+}
+
+.card__plan{
+    width: 80%;
+    margin-bottom: 32px;
+}
+
+.card__plan-right-info-time{
+    font-weight: 900;
+}
+
+.card__plan-left{
+    font-weight: 900;
+}
+.card__plan-left a:hover{
+    text-decoration: none;
+    color: var(--Desaturated-blue);
+}
+.card__payment-button{
+    width: 80%;
+}
+
+.card__payment-button:hover{
+    background-color: var(--Desaturated-blue);
+}
+.card__cancel-order{
+    margin-bottom: 44px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.card__cancel-order:hover{
+    color: var(--Dark-blue);
+    font-weight: 900;
+}
+
+
